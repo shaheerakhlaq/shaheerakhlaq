@@ -1,8 +1,8 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Shaheer Akhlaq!
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Spring Boot applications**.
+- 🔭 I’m currently working on **Microservices event driven architecture for Paymnet gateway**.
 - 🌱 I’m learning **Kafka, security, and real-time messaging systems**.
 - 💬 Ask me about **Java, Spring Boot, and system architecture**.
 
